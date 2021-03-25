@@ -5,7 +5,7 @@
 * [General Informations](#general-info)
 * [General Idea](#aim)
 * [Technologies](#technologies)
-
+* [References](#ref)
 
 ## General Informations
 
@@ -23,4 +23,5 @@ Project is created with:
 * Python
 * Google Colab
 
+## References
 * Zalesky, A., Fornito, A., & Bullmore, E. T. (2010). Network-based statistic: Identifying differences in brainnetworks.Neuroimage,53(4), 1197–1207.
